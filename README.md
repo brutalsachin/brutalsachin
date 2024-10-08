@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sachin Yadav:
 👋 Hi there! I’m Sachin Yadav, a passionate developer with a love for coding and problem-solving. I specialize in  web development, artificial intelligence and I enjoy creating innovative solutions that make a difference.<br><br>🌱 I’m currently learning  React, Python, to enhance my skills and stay up-to-date with industry trends.<br><br>💼 I have experience working with JavaScript, Node.js, SQL and have contributed to various projects that showcase my ability to build responsive web applications.<br><br>📫 Feel free to reach out to me at 2k23.csai2310567@gmail.com or check out my projects below!<br><br>---<br><br>
 
 
