@@ -30,6 +30,25 @@
 
 ---
 
+# 🌱 Spring Ecosystem:
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)  
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+
+---
+
+# 📱 Mobile Sensors Knowledge:
+![Accelerometer](https://img.shields.io/badge/Accelerometer-%23007ACC.svg?style=for-the-badge&logo=sensu&logoColor=white)  
+![Gyroscope](https://img.shields.io/badge/Gyroscope-%23007ACC.svg?style=for-the-badge&logo=sensu&logoColor=white)  
+![Magnetometer](https://img.shields.io/badge/Magnetometer-%23007ACC.svg?style=for-the-badge&logo=sensu&logoColor=white)  
+![GPS](https://img.shields.io/badge/GPS-%23007ACC.svg?style=for-the-badge&logo=googlemaps&logoColor=white)  
+![Proximity Sensor](https://img.shields.io/badge/Proximity%20Sensor-%23007ACC.svg?style=for-the-badge&logo=sensu&logoColor=white)  
+![Light Sensor](https://img.shields.io/badge/Light%20Sensor-%23007ACC.svg?style=for-the-badge&logo=sensu&logoColor=white)  
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brutalsachin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brutalsachin&theme=dark&hide_border=false)  
